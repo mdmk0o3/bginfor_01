@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css">
+        <title>배곧 정보 창의 IT주간 Q.3</title>
+	</head>
+	<body>
+        <section id="container3">
+            <header id="header3">
+                <section class="inner3">
+
+                    <h1 class="title3">
+                        배곧 정보 창의 IT 주간
+                    </h1>
+                
+                </section>
+            </header>
+            
+            <section id="main_container3">
+                <div class="inner3">
+                    
+                    <h1 class="date3">
+                        3일차 문제
+                    </h1>
+                    
+                </div>
+                
+                <div class="q3">
+                    <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/127156223_1400676753596636_9079465352824513802_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=YagJeUxc9bQAX95tWdA&_nc_ht=scontent-ssn1-1.xx&oh=b54938632586be18920ed2b663681ed3&oe=5FE1954D" alt="q1">
+                </div>
+                <br/>
+                <a href="https://forms.gle/tHB7UqzvmmneDYGw7"><IMG src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/126071679_1400645873599724_8473720057442704514_n.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=xupHcjENRggAX8WtQbP&_nc_ht=scontent-ssn1-1.xx&oh=b35b55e5e17e320edaa0d747328e6b45&oe=5FE20BFB" class="send" border="0"> </a>
+                    <p>
+            </section>
+        </section>
+        
+	</body>
+</html>
